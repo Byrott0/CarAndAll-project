@@ -1,11 +1,14 @@
 # WPR-Project groep F
+CarAndAll is een Full-stack webapplicatie dat als onderdeel was voor ons curriculum. 
+De applicatie laat particulieren en geregistreerde bedrijven auto's verhuren vanuit een breed scala voertuigen. Waar zowel gedacht is aan registration, security (JWT) en werken in de software development Life cycle.
+Dit groepsproject heeft ons kennis en skills in webdevelopment verbeterd en heeft meegedragen aan het beter samen kunnen werken in een team van developers.
 
 # benodigde installatie
 Node JS
 .NET
 
 # start-backend
-start de backend door in visual studio op F5 te drukken (of op de groene knop bovenaan te klikken).
+Run de applicatie in de IDE
 
 # start-frontend
 na de backend aan te zetten voer je de volgende stappen uit:
